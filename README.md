@@ -19,5 +19,43 @@ Last summer I had the opportunity to go to San Luis Obispo, California for an in
 Beyond CS, I really love music. I am currently the program director for WSUM 91.7 FM in Madison, WI, which is the largest student-run radio station in North America by membership. I have had a show on the station since late 2021 when I began my show "The Time Machine," which played funk music from various eras. My new show is "Puttin' it on Wax" where I play funk vinyl. Beyond having a radio show, I also love writing about music. I am a published writer for the EMMIE Music Magazine, writing pieces on [disco](https://issuu.com/wisconsinunion/docs/final_emmie_2022_single_page_view/14) and ["quiet storm,"](https://issuu.com/wisconsinunion/docs/emmiecrushohmmeissuu/40) on top of being the publication's web director. I recently overhauled the website and I am proud of my work.
 
 <h2>Projects:</h2>
-<b>EMMIE Music Magazine Redesign</b>
+<h3>Artificial Intelligence:</h3>
+ <p>
+  Each of the below projects are written in python. I made them for my Artificial Intelligence class which I took in the fall semester of 2022.
+  </p>
+
+<b> - Q-Learning</b>
+(https://github.com/qholle/QLearning)
+</br>
+In this program I used the concept of Q-learning with an epsilon-greedy policy to find the optimal strategy for the OpenAI FrozenLake-v1 environment.
+</br>
+
+<b> - Minimax Algorithm</b>
+(https://github.com/qholle/Minimax)
+</br>
+This program uses the minimax algorithm along with alpha-beta pruning in order to solve a game called Teeko.
+</br>
+
+<b> - Image Classification</b>
+(https://github.com/qholle/ImageClassification)
+</br>
+In this project I built a neural network using the pytorch package to perform supervised learning and classify images. 
+</br>
+
+<b> - Hierarchical Agglomerative Clustering</b>
+(https://github.com/qholle/HAC)
+</br>
+This program performs hierarchical agglomerative clustering using complete linkage.
+</br>
+
+<b> - Principal Component Analysis</b>
+(https://github.com/qholle/PCA)
+</br>
+This project performs the principal component analysis algorithm on 32x32 image files from the Yale face dataset.
+</br>
+
+<h3>Miscellaneous Projects:</h3>
+<b> - EMMIE Music Magazine Redesign</b>
 (https://www.emmiemusic.com/)
+</br>
+After years of neglect, the EMMIE magazine website did not look appealing. As the web director of the publication, I worked on my own to modernize the website.
